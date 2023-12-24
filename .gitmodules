@@ -1,0 +1,24 @@
+[submodule "EX1_A"]
+	path = EX1_A
+	url = https://github.com/itamarKraitman/CPP_EX2_PART1.git
+[submodule "EX1_B"]
+	path = EX1_B
+	url = https://github.com/itamarKraitman/CPP_EX2_PART2.git
+[submodule "EX3_A"]
+	path = EX3_A
+	url = https://github.com/itamarKraitman/CPP_EX3_PART1.git
+[submodule "EX3_B"]
+	path = EX3_B
+	url = https://github.com/itamarKraitman/CPP_EX3_PART2.git
+[submodule "EX4_A"]
+	path = EX4_A
+	url = https://github.com/itamarKraitman/CPP_EX4_PART1.git
+[submodule "EX4_B"]
+	path = EX4_B
+	url = https://github.com/itamarKraitman/CPP_EX4_PART2.git
+[submodule "EX5_A"]
+	path = EX5_A
+	url = https://github.com/itamarKraitman/CPP_EX5_PART1.git
+[submodule "EX5_B"]
+	path = EX5_B
+	url = https://github.com/itamarKraitman/CPP_EX5_PART2.git
